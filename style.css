@@ -1,8 +1,10 @@
 .text{
-    color: rgb(107, 107, 63);
+    color: white;
 }
 
-
+.text-p{
+    color:black;
+}
 .text-heading{
     color: rgb(185, 185, 56);
 }
@@ -31,10 +33,6 @@
     padding: 2px;
 }
 
-
-.fab{
-    position: fixed;
-    bottom:50px;
-    right: 50px;
-    border-radius: 15px;
+.text-d{
+    color: rgb(199, 199, 180);
 }
