@@ -37,3 +37,12 @@
 .text-d{
     color: rgb(236, 236, 205);
 }
+
+
+.card{
+    transition: 2s;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
